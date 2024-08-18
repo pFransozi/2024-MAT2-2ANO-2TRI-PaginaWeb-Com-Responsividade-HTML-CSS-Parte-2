@@ -18,6 +18,12 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    2. Implementar um título e uma lista de categorias horizontal no cabeçalho;
    3. Ocultar ícones específicos em tablets utilizando CSS;
    4. Adaptando a exibição para o novo layout.
+* Aula 03
+   1. Ajustar o tamanho da fonte e a largura da barra de pesquisa no banner;
+   2. Modificar o título e a paginação do carrossel de livros para garantir consistência visual;
+   3. Ajustar a quebra de linha da seção "Tópicos visitados recentemente", aumentando o tamanho do texto;
+   4. Posicionar corretamente os elementos na seção de contato com utilizando o conceito de flexbox;
+   5. Verificar a consistência da aparência do site em diferentes tamanhos de tela, assegurando a responsividade.
 
 ## Links
 
