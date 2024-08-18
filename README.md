@@ -24,6 +24,11 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    3. Ajustar a quebra de linha da seção "Tópicos visitados recentemente", aumentando o tamanho do texto;
    4. Posicionar corretamente os elementos na seção de contato com utilizando o conceito de flexbox;
    5. Verificar a consistência da aparência do site em diferentes tamanhos de tela, assegurando a responsividade.
+* Aula 04
+   1. Acessar as imagens do protótipo para adicionar ao projeto;
+   2. Construir o rodapé completo, inserindo tags como ul, li, img e a no seu projeto;
+   3. Adicionar estilos com CSS, ajustando cores, tamanhos de fonte e margens dentro do media query;
+   4. Controlar a exibição dos elementos em diferentes tamanhos de tela com a propriedade display.
 
 ## Links
 
