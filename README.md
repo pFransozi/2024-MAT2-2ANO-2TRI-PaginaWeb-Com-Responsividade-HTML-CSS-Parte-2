@@ -35,6 +35,11 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    3. Utilizar media queries para ajustar a exibição dos elementos conforme a largura da tela;
    4. Estilizar os textos e espaçamentos para uma melhor aparência e disposição no cabeçalho;
    5. Ocultar e exibir os textos dependendo do tamanho da tela com a propriedade display.
+* Aula 06
+   1. Ajustar o layout do projeto para desktop, modificando propriedades de espaçamento, fontes e disposição dos elementos;
+   2. Organizar as seções de carrossel e cards em containers flexíveis, com a adição de uma nova div;
+   3. Melhorar a aparência das seções, ajustando a largura dos elementos;
+   4. Criar divisões no rodapé, através da propriedade border e suas definições.
 
 ## Links
 
