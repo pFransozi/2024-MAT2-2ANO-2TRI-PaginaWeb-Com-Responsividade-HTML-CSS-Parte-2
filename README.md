@@ -45,6 +45,10 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    2. Entender o uso dos combinadores CSS como ~ e >, aplicando-os no código;
    3. Personalizar o menu "Categorias" no tablet, inserindo o efeito de quando o mouse passar por cima (:hover);
    4. Melhorar a experiência do usuário, tornando a navegação mais intuitiva e agradável.
+* Aula 08
+   1. Criar um repositório no GitHub e adicionar seus arquivos;
+   2. Publicar o projeto utilizando o GitHub Pages;
+   3. Testar o resultado final do projeto em diferentes dispositivos, observando o comportamento do layout para cada tamanho de tela.
 
 ## Links
 
@@ -53,3 +57,9 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
 [O que é um site responsivo?]([https://](https://www.youtube.com/watch?v=yb6_tfdEi5A))
 
 [Por que um design responsivo é importante para potencializar seu marketing?](https://www.alura.com.br/artigos/por-que-um-design-responsivo-e-importante-para-potencializar-seu-marketing)
+
+[Como escrever bom readme]([https://](https://www.alura.com.br/artigos/escrever-bom-readme))
+
+[O que é Git e Github: os primeiros passos nessas ferramentas]([https://](https://www.alura.com.br/artigos/o-que-e-git-github))
+
+[Como lidar com os limites de resolução em sites responsivos?]([https://](https://www.alura.com.br/artigos/como-lidar-com-os-limites-de-resolucao-em-sites-responsivos))
