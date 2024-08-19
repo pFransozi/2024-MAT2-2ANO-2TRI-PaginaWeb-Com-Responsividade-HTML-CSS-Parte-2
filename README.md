@@ -40,6 +40,11 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    2. Organizar as seções de carrossel e cards em containers flexíveis, com a adição de uma nova div;
    3. Melhorar a aparência das seções, ajustando a largura dos elementos;
    4. Criar divisões no rodapé, através da propriedade border e suas definições.
+* Aula 07
+   1. Modificar o menu suspenso do mobile quando ele é clicado, através da pseudo-classe :checked;
+   2. Entender o uso dos combinadores CSS como ~ e >, aplicando-os no código;
+   3. Personalizar o menu "Categorias" no tablet, inserindo o efeito de quando o mouse passar por cima (:hover);
+   4. Melhorar a experiência do usuário, tornando a navegação mais intuitiva e agradável.
 
 ## Links
 
