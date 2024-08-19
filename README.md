@@ -29,6 +29,12 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    2. Construir o rodapé completo, inserindo tags como ul, li, img e a no seu projeto;
    3. Adicionar estilos com CSS, ajustando cores, tamanhos de fonte e margens dentro do media query;
    4. Controlar a exibição dos elementos em diferentes tamanhos de tela com a propriedade display.
+* Aula 05
+   1. Analisar e ajustar o cabeçalho do site para o layout desktop;
+   2. Adicionar os textos "Minha sacola" e "Meu perfil" ao lado dos ícones de compras e perfil;
+   3. Utilizar media queries para ajustar a exibição dos elementos conforme a largura da tela;
+   4. Estilizar os textos e espaçamentos para uma melhor aparência e disposição no cabeçalho;
+   5. Ocultar e exibir os textos dependendo do tamanho da tela com a propriedade display.
 
 ## Links
 
