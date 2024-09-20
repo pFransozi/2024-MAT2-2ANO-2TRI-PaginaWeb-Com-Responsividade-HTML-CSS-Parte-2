@@ -52,7 +52,7 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
 
 ## Links
 
-[Flexibilidade em páginas para dispositivos móveis com media queries]([https://](https://www.alura.com.br/artigos/flexibilidade-em-paginas-para-dispositivos-moveis-com-media-queries))
+[Flexibilidade em páginas para dispositivos móveis com media queries](https://www.alura.com.br/artigos/flexibilidade-em-paginas-para-dispositivos-moveis-com-media-queries)
 
 [O que é um site responsivo?]([https://](https://www.youtube.com/watch?v=yb6_tfdEi5A))
 
